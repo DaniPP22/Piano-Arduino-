@@ -22,3 +22,6 @@ De esta manera, cada toque produce una respuesta audiovisual: el piano genera so
 | 1 | LED | Diodo emisor de luz |
 | 1 | Resistencia | Control de corriente |
 | 1 | Arduino Leonardo | Placa microcontroladora |
+
+### Montaje del circuito
+https://github.com/DaniPP22/Piano-Arduino-/blob/main/images/images/WhatsApp%20Image%202026-11-09%20at%209.43.51%20AM.jpeg
