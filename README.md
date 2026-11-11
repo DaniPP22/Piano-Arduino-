@@ -25,3 +25,9 @@ De esta manera, cada toque produce una respuesta audiovisual: el piano genera so
 
 ### Montaje del circuito
 https://github.com/DaniPP22/Piano-Arduino-/blob/main/images/images/WhatsApp%20Image%202026-11-09%20at%209.43.51%20AM.jpeg
+
+
+
+
+### SINTETIZADOR ONLINE
+https://www.websynths.com/microtonal/
